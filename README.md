@@ -40,8 +40,8 @@ ResQAI is a next-generation, open-source disaster intelligence platform built fo
 ### Setup & Installation Instructions:
 
 
-cd desktop
-git clone "https://github.com/Manas-Dikshit/resq-ai-assistant"
-cd resq-ai-assistant
-npm i 
-npm run dev 
+*cd desktop
+*git clone "https://github.com/Manas-Dikshit/resq-ai-assistant"
+*cd resq-ai-assistant
+*npm i 
+*npm run dev 
