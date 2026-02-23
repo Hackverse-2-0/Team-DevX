@@ -35,7 +35,7 @@ TEAM DevX
 ResQAI
 
 ### Project Description:
-ResQAI is a next-generation, open-source disaster intelligence platform built for Odisha, India — one of the world's most disaster-prone coastal regions, regularly battered by cyclones, floods, and heatwaves. It is the only platform in existence that combines:
+ResQAI is a next-generation, open-source disaster intelligence platform built for Odisha, India — one of the world's most disaster-prone coastal regions, regularly battered by cyclones, floods, and heatwaves. It is the only platform in existence.
 
 ### Setup & Installation Instructions:
 Prerequisites
