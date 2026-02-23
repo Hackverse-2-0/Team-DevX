@@ -29,13 +29,19 @@ To ensure fairness and track your progress, this hackathon features a strict two
 *Please overwrite the information below with your actual project details before the final evaluation.*
 
 ### Team Name: 
-[Enter your team name]
+TEAM DevX
 
 ### Project Name:
-[Enter your project name]
+ResQAI
 
 ### Project Description:
-[Write a brief 1-2 paragraph description of what your project does, the problem it solves, and the technologies used.]
+ResQAI is a next-generation, open-source disaster intelligence platform built for Odisha, India — one of the world's most disaster-prone coastal regions, regularly battered by cyclones, floods, and heatwaves. It is the only platform in existence that combines:
 
 ### Setup & Installation Instructions:
-[Provide clear, step-by-step instructions on how the judges can run your project locally. Include any commands needed to install dependencies and start the application.]
+
+
+cd desktop
+git clone "https://github.com/Manas-Dikshit/resq-ai-assistant"
+cd resq-ai-assistant
+npm i 
+npm run dev 
