@@ -38,10 +38,17 @@ ResQAI
 ResQAI is a next-generation, open-source disaster intelligence platform built for Odisha, India — one of the world's most disaster-prone coastal regions, regularly battered by cyclones, floods, and heatwaves. It is the only platform in existence that combines:
 
 ### Setup & Installation Instructions:
+Prerequisites
 
+- Node.js 18+ (recommended)
+- npm (or pnpm)
+- Optional: Supabase CLI for local function testing
 
-*cd desktop
-*git clone "https://github.com/Manas-Dikshit/resq-ai-assistant"
-*cd resq-ai-assistant
-*npm i 
-*npm run dev 
+Install and run development server
+
+```bash
+git clone "https://github.com/Manas-Dikshit/resq-ai-assistant"
+npm install
+npm run dev
+```
+
